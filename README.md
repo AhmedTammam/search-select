@@ -1,4 +1,6 @@
-# editor-app
+# Search-Select-VueJs-form
+
+form with two search-select inputs 
 
 ## Project setup
 ```
